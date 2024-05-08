@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>227971479582-ht5oc0oknm4l31im6vrnr47e75oiibu2.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.227971479582-ht5oc0oknm4l31im6vrnr47e75oiibu2</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>227971479582-2387kr17jl57hq5ke3rbpagpf85jeuda.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC-5vP_3aOOyI7DhsUikzOpN3nXTG-aiAA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>227971479582</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.app.adasa</string>
+	<key>PROJECT_ID</key>
+	<string>adasa-c0aa9</string>
+	<key>STORAGE_BUCKET</key>
+	<string>adasa-c0aa9.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:227971479582:ios:0129ef560b9ef93ed2560f</string>
+	<key>DATABASE_URL</key>
+	<string>https://adasa-c0aa9-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

@@ -18,20 +18,23 @@
 
 ![1290x2796bb-2](https://github.com/sameem92/Adasa/assets/140856509/5c2975ac-84c0-468e-b377-2bcbadc26ebe)
 
+
+An application designed specifically for the work of my services, the application displays the services in a detailed and beautiful way and allows customers to book the service, and they can also add it to the favorites, or add the service provider to the favorites, there are notifications that reach customers to provide them with what is new, and the application has the electronic payment service
+
 ## Features
-Multiple Service Providers with their Management System
-Classified businesses & Services.
-Geolocation & Google Maps address picker.
-Live chat between customers and providers
-Multiple Payments Gateway Integrations.
-Multi-Languages Support (including LTR & RTL).
-Discounts & Coupons
-Easy Login & Authentication
-Managing profile settings
-Intuitive & User-Friendly Animations
-Help & Support for customer and service providers
-Favorites, Wishlist Services
-Tracking and Filter Bookings
+* Multiple Service Providers with their Management System
+* Classified businesses & Services.
+* Geolocation & Google Maps address picker.
+* Live chat between customers and providers
+* Multiple Payments Gateway Integrations.
+* Multi-Languages Support (including LTR & RTL).
+* Discounts & Coupons
+* Easy Login & Authentication
+* Managing profile settings
+* Intuitive & User-Friendly Animations
+* Help & Support for customer and service providers
+* Favorites, Wishlist Services
+* Tracking and Filter Bookings
 
 ## Built with
  - Dart Programing Language.
